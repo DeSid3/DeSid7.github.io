@@ -1,0 +1,13 @@
+html {
+    height: 100%;
+}
+body {
+    background-color: rgb(105, 105, 100);
+}
+
+.slick-wrapper {
+    max-width: 80%;
+    max-height: 80%;
+    background: rgb(53, 53, 51);
+    border-radius: 30px;
+}
